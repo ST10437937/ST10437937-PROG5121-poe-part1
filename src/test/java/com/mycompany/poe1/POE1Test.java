@@ -63,3 +63,6 @@ public class POE1Test {
         assertTrue(result.contains("Welcome"));
     }
 }
+
+// Refernce list
+// Farrell,J. 2019. Java Programming Ninth Edtion.Boston:Cengage
